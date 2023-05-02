@@ -1,0 +1,10 @@
+.contenedor{
+    margin: 15px 0 15px 0;
+    border: solid 5px blue;
+    
+}
+
+.nav{
+    text-decoration: none;
+    color: white;
+}

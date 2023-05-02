@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+.contenedor{
+    border-radius: 20px;
+    margin: 0 0px 0 0px;
+    background-color: gray;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    font-family: 'Silkscreen', cursive;
+}
+
+
+
+.button{
+    background-color: rgba(133, 255, 19, 0.863);
+    border: white 2px solid;
+    border-radius: 25px;
+}
+
+.carta{
+    margin: 15px 0 0 0;
+    width: 250px;
+    height: 600px;
+}
+
+.info{
+    text-align: start;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 13px;
+    line-height: 0.1;
+}
+
+.origin{
+    text-align: start;
+    margin-top: -2px;
+    margin-left: 40px;
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.decoration{
+    text-decoration: none;
+}
+
+.info:hover{
+    color: rgba(133, 255, 19, 0.863);
+}

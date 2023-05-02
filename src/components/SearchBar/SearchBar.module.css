@@ -1,0 +1,18 @@
+.buscador{
+    background-color: rgba(167, 255, 85, 0.24);
+    text-align: center;
+    align-items: center;
+}
+
+.buscador, ::placeholder{
+    color: rgb(255, 255, 255);
+}
+
+.button{
+    margin: 0 15px 0  15px;
+}
+
+.separador{
+    display: flex;
+    justify-content: flex-end;
+}

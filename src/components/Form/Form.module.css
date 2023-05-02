@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@800&family=Silkscreen&display=swap');
+
+/* body{
+    background-image: url(/src/img/photo_2023-04-28_22-13-56.jpg);
+    background-repeat: no-repeat;
+    background-color: black;
+    overflow-x: hidden;
+ }  */
+ 
+
+ 
+
+.guia{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10em;
+    color: black;
+}
+
+.bodyform{
+    display: block;
+    background-color: rgba(242, 248, 253, 0.925);
+    margin: 50px 50px;
+    padding: 50px;
+    font-family: 'Barlow', sans-serif;
+    border-radius: 15px;
+}
+
+.title{
+    color: black;
+    font-size: 25px;
+}
+
+.barra{
+    width: 250px;
+    height: 20px;
+    background-color: gray;
+    margin-left: 10px;
+}
+
+.success{
+    border: 1px solid blue;
+}
+
+.error{
+    border: 1px solid red;
+}
+
+.boton{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    background-color: rgb(95, 170, 255);
+    font-size: 25px;
+    border: none;
+    padding: 5px 55px;
+    margin: 15px 0 ;
+    border-radius: 5px;
+}
+.boton:hover{
+    background-color: rgb(71, 129, 196);
+    cursor:pointer;
+}
